@@ -2,7 +2,13 @@
 Which format of the Fall 2020 semester do Swarthmore students prefer? Which factors inform the preference? What are the pros-cons-repercussions of each reopening plan? These are the three questions I sought to explore through this project to shed light on the the 'Fall 2020 reopening plan' conversation. Many articles on Fall 2020 reopening plan rely heavily either on survey results or stories, but not both. In reality, numbers and stories complement each other: stories make numbers stick to people, whereas numbers make stories more robust. Hence, my goal is to combine clear-cut data analysis with powerful stories to convey the complexity of the Fall 2020 reopening plans, which culminates in this longform piece titled [Survey: Awaiting Fall 2020 plan, students face housing uncertainty, safety concerns](https://swarthmorephoenix.com/2020/06/30/students-weigh-in-on-fall-2020/). 
 
 # In this repo
-1. A mock .csv file on results from the survey data 
+
+1. mock_surveydata.csv: A mock file on results from the survey data. I did not include the actual data in the Github because: 
+A) Survey respondents only consented to providing data **for the article** rather than being released to the public;
+B) Even though the data is anonymized, it is possible to pinpoint the identity of some respondents using information from multiple fields (think: only few students are international, FGLI, and concerned about housing). Releasing the actual data, hence, compromises the respondents' anonymity.
+
+2. Phoenix—Fall 2020.ipynb: A Jupyter notebook where I cleaned, manipulated, and visualized data.
+
 
 # Goals
 1. *Convey the complexity of reopening plans across demographics*. Whether the fall semester is entirely online, hybrid, or fully on-campus has different repercussions for students on different demograpic groups. For instance, an international student may be less likely to take a semester off due to visa concerns. 
@@ -49,7 +55,9 @@ Explanation of the anomaly: Most international students do not receive financial
 - Normalize the data for the *format preference* and *the likelihood of absence if Fall 2020 is completely online* because **comparing proportion of students favoring different options** provides greater clarity on what the majority prefer/how most people will react to an online semester.
 - Use raw counts on factors that matter to students (Each respondent is asked to rate 14 factors on the scale 1-5 where 1 = not (matter) at all AND 5 = really matters to me). The graphics tallies the number of students rating 4-5 on each factor. 
 
-At first, I experimented with creating a stacked bar chart based on demographics (e.g. factors that matter to FGLI vs non-FGLI students stacked together) and normalizing the 'factors that matter' graphics. However, Bayliss and I decided not include those graphics because they complicate without adding much insight to the stories. 
+At first, I experimented with creating a stacked bar chart based on demographics (e.g. factors that matter to FGLI vs non-FGLI students stacked together) and normalizing the 'factors that matter' graphics. However, Bayliss and I decided not include those graphics because they complicate without adding much insight to the story. 
+
+NOTE: I believe visualizing data with Datawrapper is easier than with Python. 
 
 5. **Incorporate pertinent anecdotes to make sense of the survey data**. Some readers may not be convinced by cold statistics about the exigency of an issue, but poignant stories might do the job. Consider the examples below:
 
