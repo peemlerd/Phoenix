@@ -21,7 +21,18 @@ Which format of the Fall 2020 semester do Swarthmore students prefer? Which fact
 # Work process
 1. **Define the goals and the scope of this article (see above).** Because we were interested in whether students from different demographic groups have different preference on the reopening plan AND whether they weigh each factor differently, we made it a point to include demographic questions in the survey.
 
-2. **Create a survey**. Surveys should be brief yet meaningful. Bayliss and I edited the survey multiple times to ensure every question is clear. Questions on how confident students were/are in securing stable, sufficient housing during Spring/Fall 2020 were added as many students expressed anxiety on their housing situation. A few questions on demographics, housing situation, and preference on Fall 2020 were mandatory, and the rest optional, so respondents can complete the survey within one minute. The rest of the questions focused on factors weighing onto students' preference, their experience with COVID-19 and thoughts on the reopening plan, and whether they were interested in being interviewed further. 
+2. **Create a survey**. Surveys should be brief yet meaningful. Bayliss and I edited the survey multiple times to ensure every question is clear. Questions on how confident students were/are in securing stable, sufficient housing during Spring/Fall 2020 were added as many students expressed anxiety on the issue. A few questions on demographics, housing situation, and preference on Fall 2020 were mandatory. Other questions, all of which are optional, include factors weighing onto students' preference and their experience with COVID-19/thoughts on the reopening plan. 
+
+To ensure students answer freely, the survey does not collect any email and explicitly ask for consent if students are interested in being further interviewed.
+
+3. **Analyze the data**. Overall, we aggregated 254 responses and performed analysis on those data. The analysis validates several claims on the effects of Fall 2020 format, such as:
+- International students are concerned with timezone difference and travel restrictions.
+- Many students were dissatisfied with online classes during Spring 2020 and yearn for face-to-face interactions.
+However, many unexpected trends emerged as well, such as:
+- The more financial aid a student receives, the less likely they are to consider a leave of absence. Moreover, these students tend to weigh "abstract factors" (think: networking opportunity, academic rigor) less in comparison to students receiving little to no financial aid. 
+- Incoming first-year students overwhelmingly prefer hybrid or on-campus options, but responses from other students are mixed. 
+- International students are significantly less likely to consider a leave of absence — regardless of the format.
+See the .ipnyb file for further details on the analysis and the article for data 
 
 # Acknowledgement
 This project is a collaboration between Peem Lerdputtipongporn '21 and Bayliss Wagner '21 from Swarthmore College. The article is wordpressed by Bayliss and edited by the Editorial Board of The Phoenix.
