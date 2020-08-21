@@ -2,7 +2,7 @@
 Which format of the Fall 2020 semester do Swarthmore students prefer? Which factors inform the preference? What are the pros-cons-repercussions of each reopening plan? These are the three questions I sought to explore through this project to shed light on the the 'Fall 2020 reopening plan' conversation. Many articles on Fall 2020 reopening plan rely heavily either on survey results or stories, but not both. In reality, numbers and stories complement each other: stories make numbers stick to people, whereas numbers make stories more robust. Hence, my goal is to combine clear-cut data analysis with powerful stories to convey the complexity of the Fall 2020 reopening plans, which culminates in this longform piece titled [Survey: Awaiting Fall 2020 plan, students face housing uncertainty, safety concerns](https://swarthmorephoenix.com/2020/06/30/students-weigh-in-on-fall-2020/). 
 
 # In this repo
-1. A mock file 
+1. A mock .csv file on results from the survey data 
 
 # Goals
 1. *Convey the complexity of reopening plans across demographics*. Whether the fall semester is entirely online, hybrid, or fully on-campus has different repercussions for students on different demograpic groups. For instance, an international student may be less likely to take a semester off due to visa concerns. 
@@ -27,7 +27,7 @@ Which format of the Fall 2020 semester do Swarthmore students prefer? Which fact
 
 2. **Create a survey**. Surveys should be brief yet meaningful. Bayliss and I edited the survey multiple times to ensure every question is clear. Questions on how confident students were/are in securing stable, sufficient housing during Spring/Fall 2020 were added as many students expressed anxiety on the issue. A few questions on demographics, housing situation, and preference on Fall 2020 were mandatory. Other questions, all of which are optional, include factors weighing onto students' preference and their experience with COVID-19/thoughts on the reopening plan. 
 
-To ensure students answer freely, the survey does not collect any email and explicitly ask for consent if students are interested in being further interviewed.
+To ensure students answer freely, the survey does not collect any email and explicitly ask for consent if students are interested in being further interviewed. A copy of the survey can be found [here](https://forms.gle/7aSEQqG2TGDt89cP6).
 
 3. **Analyze the data**. Overall, we aggregated 254 responses and performed analysis on those data. The analysis validates several claims on the effects of Fall 2020 format, such as:
 - International students are concerned with timezone difference and travel restrictions.
