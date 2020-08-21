@@ -33,7 +33,7 @@ B) Even though the data is anonymized, it is possible to pinpoint the identity o
 
 2. **Create a survey**. Surveys should be brief yet meaningful. Bayliss and I edited the survey multiple times to ensure every question is clear. Questions on how confident students were/are in securing stable, sufficient housing during Spring/Fall 2020 were added as many students expressed anxiety on the issue. A few questions on demographics, housing situation, and preference on Fall 2020 were mandatory. Other questions, all of which are optional, include factors weighing onto students' preference and their experience with COVID-19/thoughts on the reopening plan. 
 
-To ensure students answer freely, the survey does not collect any email and explicitly ask for consent if students are interested in being further interviewed. A copy of the survey can be found [here](https://forms.gle/7aSEQqG2TGDt89cP6).
+To ensure students answer freely, the survey does not collect any email and explicitly ask for consent if students are interested in being further interviewed. A copy of the survey [can be found here](https://forms.gle/7aSEQqG2TGDt89cP6).
 
 3. **Analyze the data**. Overall, we aggregated 254 responses and performed analysis on those data. The analysis validates several claims on the effects of Fall 2020 format, such as:
 - International students are concerned with timezone difference and travel restrictions.
