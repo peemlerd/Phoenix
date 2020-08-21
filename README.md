@@ -1,5 +1,5 @@
 # About this project
-This repository contains a file about the 
+This project culminates in the Phoenix article titled [Survey: Awaiting Fall 2020 plan, students face housing uncertainty, safety concerns](https://swarthmorephoenix.com/2020/06/30/students-weigh-in-on-fall-2020/). 
 
 # Tools used
 1. Google Forms
